@@ -1,3 +1,3 @@
-# Resourses of PIC16 at UCLA
+# PIC16B course materials
 
-This repository contains my couse materials of PIC16.
+This repository contains my PIC16B ( Python with Applications II ) lecture notes. 
