@@ -1,0 +1,22 @@
+Status,Student,ID,SIS User ID,SIS Login ID,Section,Homework 1,Homework 2,Homework 3 ,Homework 4,Homework 5,Homework 6,Homework 7,Homework 8,Midterm,Final
+,,,,,,Manual Posting,Manual Posting,Manual Posting,Manual Posting,Manual Posting,Manual Posting,Manual Posting,,Manual Posting,Manual Posting
+,    Points Possible,,,,,20,20,20,20,20,20,20,20,20,32
+Dropped,"MUSK, ELON",43243,111111111,elon.musk@email.com,777A-COMPTNG-16A-DIS-1A,19,19,19.5,10,20,1,0,0,0,0
+Enrolled,"DE HOMEN-CHRISTO, GUY-MANUEL",54543,112358013,guymanuel.dh@email.com,777A-COMPTNG-16A-DIS-1B,20,20,20,20,20,20,20,10,18.83,32
+Enrolled,"BANGALTER, THOMAS",54534,184376284,thomas.bangalter@email.com,777A-COMPTNG-16A-DIS-1B,20,9,15,20,18,20,20,17,17.67,32
+Enrolled,"GRANDE, ARIANA",54565,472587390,ariana.grande@email.com,777A-COMPTNG-16A-DIS-1A, ,  , ,,,,,  ,,26
+Enrolled,"MERCURY, FREDDIE",87096,157015017,freddie.mercury@email.com,777A-COMPTNG-16A-DIS-1B,13,17,15,18,16,17,0,1,14.27,24
+Enrolled,"TAYLOR, COREY",43244,111011101,corey.taylor@email.com,777A-COMPTNG-16A-DIS-1B,19,9,18,20,14,18,16,14,18.83,24
+Enrolled,"BOWIE, DAVID",54554,601000600,david.bowie@email.com,777A-COMPTNG-16A-DIS-1B,19,16,19.5,19,14,17,12,12,14.93,29
+Enrolled,"COLLINS, PHIL",13245,120130140,phil.collins@email.com,777A-COMPTNG-16A-DIS-1B,14.5,18,9,17,17,0,0,10,16.18,0
+Enrolled,"MORELLO, TOM",75644,888888888,tom.morello@email.com,777A-COMPTNG-16A-DIS-1B,20,17,10,20,20,20,20,20,17.17,30
+Enrolled,"JEFFERSON, MELISSA",12324,911999911,melissa.jefferson@email.com,777A-COMPTNG-16A-DIS-1A,20,20,20,20,16,1, ,5,15,29
+Enrolled,"BENNET, CHANCELOR",21321,101012101,chancelor.bennet@email.com,777A-COMPTNG-16A-DIS-1B,20,18,7,20,18,19,20,16,18.33,29
+Enrolled,"DUCKWORTH, KENDRICK",76543,134210200,kendrick.duckworth@email.com,777A-COMPTNG-16A-DIS-1A,19,20,20,20,20,20,19.7,18,16.67,32
+Enrolled,"MEATH, AMELIA",34222,777777777,amelia.meath@email.com,777A-COMPTNG-16A-DIS-1B,14,  ,17.5,19,20,10,0,19,15.48,18
+Enrolled,"HILL, MONTERO",34556,444044040,montero.hill@email.com,777A-COMPTNG-16A-DIS-1A,18,20,13,19, ,6,17,20,19.67,25
+Enrolled,"TESFAYE, ABEL",77876,222222222,abel.tesfaye@email.com,777A-COMPTNG-16A-DIS-1B,20,20,20,20,20,18,17.5,17,17.5,26
+Enrolled,"DION, CELINE",87686,100101110,celine.dion@email.com,777A-COMPTNG-16A-DIS-1A,18,20,20,20,20,20,10,20,16.35,27
+Dropped,"WEST, KANYE",87686,666666666,kanye.west@email.com,777A-COMPTNG-16A-DIS-1A,20,2,0,0,0,0,0,0,2,0
+Enrolled,"NICKS, STEVIE",87666,909090909,stevie.nicks@email.com,777A-COMPTNG-16A-DIS-1A,20,17,19,18,20,20,19.6,18,15.13,31
+,"Student, Test",75866,,e15f7f9bf635464b935c3789878989,"777A-COMPTNG-16A-DIS-1A, 777A-COMPTNG-16A-DIS-1B, and777A-COMPTNG-16A-LEC-1",,,,,,,,,0,
