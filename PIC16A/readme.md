@@ -6,4 +6,4 @@ In this folder, I inlcude some course materials for PIC16A. In particular, I hav
 - Project: a short project on machine learning
 - Dataset
 - Images
-- Autograder (Auto_grader.zip): instructor-use only.  
+- Autograder (Auto_grader.zip): instructor-use only, copyright: Michael Andrews. 
