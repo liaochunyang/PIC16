@@ -14,6 +14,8 @@ Maintained by Chunyang Liao.
 - Project
 - Data Visualization Resilts
 - Datasets
+- Quiz
+- Auto grader
 
 
 
