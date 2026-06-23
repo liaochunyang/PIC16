@@ -18,6 +18,7 @@ Maintained by Chunyang Liao.
 - Auto grader
 
 
+**If you find this repository useful, please consider giving it a star. It helps others discover the materials and lets me know that they have been useful to someone.**
 
 
 
